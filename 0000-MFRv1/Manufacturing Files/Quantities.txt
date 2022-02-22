@@ -1,0 +1,13 @@
+3x 0100-P-02-Leg
+1x 0100-P-04-Bottom Shell_Front
+1x 0100-P-04-Bottom Shell_Left
+1x 0100-P-04-Bottom Shell_Right
+1x 0200-P-01-Pitch Arm
+1x 0200-P-02-Yaw Arm 3DOF
+1x 0200-P-02-Yaw Arm
+1x 0200-P-03-Roll Arm 3DOF
+1x 0400-P-01-Top Shell_Back
+1x 0400-P-01-Top Shell_Front
+3x Mirror0100-P-02-Leg
+1x Mirror0400-P-01-Top Shell_Back
+1x Mirror0400-P-01-Top Shell_Front
